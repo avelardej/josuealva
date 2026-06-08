@@ -29,7 +29,12 @@ Actualmente desarrollo soluciones tecnológicas utilizando:
 - Clientes
 - Vehículos
 - Repuestos
+- Servicios
+- Inventario
+- POS/Caja
 - Técnicos
+- Panel de control
+- KPI
 
 
 ### 📊 Dashboards Ejecutivos
